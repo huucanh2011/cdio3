@@ -1,0 +1,41 @@
+
+.title {
+	color: #1e272e;
+   margin-top: 5px;
+   border-bottom: 1px solid #bdc3c7;
+}
+.form {
+	color: #2f3640;
+	font-size: 15px;
+}
+.form input{
+	margin-bottom: 20px;
+}
+.picturn {
+	margin-top:30px;
+	height: 350px;
+	width: 300px;
+}
+.picturn img{
+	height: 350px;
+	width: 300px;
+}
+.form #check {
+   margin-top: -15px;
+}
+.btn-save {
+  background: #f0932b !important;
+  margin-top: -180px;
+
+}
+.btn-save:hover {
+	background-color:#ffbe76  !important;
+	 opacity: 0.9;
+}
+#changepass {
+	visibility: hidden;
+}
+.checkbox p{
+	margin-top: -17px;
+}
+
